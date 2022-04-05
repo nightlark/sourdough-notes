@@ -12,4 +12,5 @@ Changes:
 - Added 125g raisins (soaked in a bowl of water with 2 drops of vanilla extract)
 - Added 1tbsp cinnamon
 
-1. Measured out flour into large metal mixing bowl, added salt and cinnamon. Mixed 400g water with 90g of starter (100% hydration) until well combined, then added it to flour and mixed until all flour was wet. Folded in raisins.
+1. Soaked raisins in water with a bit of vanilla extract for ~1.5 hours.
+2. Measured out flour into large metal mixing bowl, added salt and cinnamon. Mixed 400g water with 90g of starter (100% hydration) until well combined, then added it to flour and mixed until flour was wet. Folded in raisins.
