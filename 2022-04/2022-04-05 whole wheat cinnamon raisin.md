@@ -18,4 +18,4 @@ Changes:
 4. Oven reached about 460 degrees Fahrenheit. Scored bread with "window-pane/pound sign with a little x in the middle".
 5. Baked in the covered dutch oven for 28 minutes, followed by 10 minutes uncovered with convection on the entire time (and likely about an extra minute with the oven off before it got taken out).
 
-Results: 
+Results: Scores were a bit lopsided, but overall looked nice when baked; lots of (maybe too much) flour in the banneton led to a striking appearance between the parts that opened up where the scores were made. Tasted good, cinnamon taste was pretty light but nice amount of raisins made for a sweeter savory bread, and the soaked raisins inside the loaf were plenty wet (soaking time could have probably been less to avoid some of the moisture pockets around where the raisins were). Overall seemed like it was a denser crumb, not very airy -- next loaf will maybe try a different type of flour with lower protein content and see if it can give some more airy-ness.
