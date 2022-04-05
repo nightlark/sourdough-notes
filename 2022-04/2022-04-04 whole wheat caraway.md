@@ -6,6 +6,7 @@ Finished: 2022-04-04 (around 3:30 pm)
 Initial recipe: https://www.feastingathome.com/sourdough-bread/
 
 Changes:
+
 - Used ~400g whole wheat flour and ~120g all-purpose flour (520g total of flour)
 - Added ~2-4 tsp caraway seeds (until it looked like a nice distribution)
 - Let proof overnight for more than 10 hours (oops?)
