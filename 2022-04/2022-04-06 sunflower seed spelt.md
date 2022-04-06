@@ -1,4 +1,4 @@
-# Whole Wheat Cinnamon Raisin Sourdough
+# Sourdough Spelt with Sunflower Seeds and Multigrain Cereal
 
 Started: 2022-04-05
 Finished: tbd
