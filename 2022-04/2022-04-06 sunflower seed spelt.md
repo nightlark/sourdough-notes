@@ -8,7 +8,6 @@ Initial recipes:
 - https://breadtopia.com/spelt-bread-recipe/
 - https://www.feastingathome.com/sourdough-bread/
 
-
 Changes:
 
 - Used 520g spelt flour (from Azure Market, ultra unifine unbleached spelt flour)
