@@ -11,7 +11,7 @@ Initial recipes:
 
 Changes:
 
-- Used 520g spelt flour
+- Used 520g spelt flour (from Azure Market, ultra unifine unbleached spelt flour)
 - Used 365g water mixed with the 90g starter (reading indicated that spelt flour is easier to work with a lower hydration; dough this time around was pretty wet, so going down from 70% hydration to 67% may have been a better choice)
 - Used 1.5tsp salt
 - Added 85g sunflower seeds (raw)
