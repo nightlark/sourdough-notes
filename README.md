@@ -20,3 +20,8 @@ Things found on the web related to bread to serve as sources of inspiration for 
 - https://www.theclevercarrot.com/sourdough-baking/ - sourdough discard recipes look intriguing; cinnamon rolls, cornbread, olives (kalamata would be good...), sourdough noir, zucchini, etc
 - https://www.feastingathome.com/sourdough-bread/
 - https://foodgeek.dk/en/artisan-sourdough-bread-recipe-an-easy-recipe-for-crispy-bread/
+
+## Books
+
+- [The Bread Baker's Apprentice by Peter Reinhart](https://www.amazon.com/Bread-Bakers-Apprentice-15th-Anniversary/dp/1607748657/)
+- [Artisan Sourdough Made Simple by Emilie Raffa](https://www.amazon.com/Artisan-Sourdough-Made-Simple-Handcrafted/dp/1624144292/)
